@@ -1,4 +1,4 @@
-//Question 1. Complete the C Program for Calculating Circle Area. Below is a starter code for a C program
+https://github.com/MaximI06/School-Courses/tree/main/C-Fundamentals/Quizes//Question 1. Complete the C Program for Calculating Circle Area. Below is a starter code for a C program
 //that calculates the area of a circle after obtaining the user's name and the circle's radius. Some parts of
 //the code are missing. Fill in the missing code to complete the program.
 
